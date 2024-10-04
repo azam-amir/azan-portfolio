@@ -37,8 +37,8 @@ const Education = () => {
             >
               I completed my intermediate in Computer Science with a passion to
               explore every new concept and elevate my skills to a new level
-              This journey wasn't limited to textbook knowledge; I enhanced my
-              creativity and technical skills through real-world projects,
+              This journey wasn&apos;t limited to textbook knowledge; I enhanced
+              my creativity and technical skills through real-world projects,
               laying a strong foundation for my future growth.
             </CustomEducationCard>
             <CustomBall

@@ -27,11 +27,11 @@ const Services = () => {
               the latest web technologies.
             </CustomCard>
             <CustomCard title="Mobile App Developer">
-              I'm skilled in React Native, enabling me to create
+              I&apos;m skilled in React Native, enabling me to create
               high-performance mobile apps with a seamless user experience. My
               expertise lies in translating complex designs into smooth,
-              responsive interfaces. I'm committed to continuous learning and
-              applying the latest advancements in mobile development.
+              responsive interfaces. I&apos;m committed to continuous learning
+              and applying the latest advancements in mobile development.
             </CustomCard>
             <CustomCard title="Backend Developer">
               I specialize in backend development using NestJS, where I build

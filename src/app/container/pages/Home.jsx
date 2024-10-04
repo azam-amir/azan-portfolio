@@ -41,7 +41,7 @@ function Home({ scrollToContact }) {
               Hi ,Its <span className="text-sky-500">Azan</span>
             </h1>
             <p className="p-one text-[2vw] font-normal">
-              I'm a <span className="text-sky-400" ref={textChange}></span>
+              I&apos;m a <span className="text-sky-400" ref={textChange}></span>
             </p>
             <p className="font break-words text-[1.1vw] mt-3 mb-5 capitalize">
               As a Frontend Developer with 1 year of experience, I specialize in
