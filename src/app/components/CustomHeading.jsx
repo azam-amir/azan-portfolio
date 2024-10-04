@@ -1,6 +1,6 @@
-import { forwardRef } from "react";
+import React, { forwardRef } from "react";
 
-export const CustomHeading = forwardRef(({ className, children }, ref) => {
+const CustomHeading = forwardRef(({ className, children }, ref) => {
   return (
     <h1
       ref={ref}
@@ -10,3 +10,7 @@ export const CustomHeading = forwardRef(({ className, children }, ref) => {
     </h1>
   );
 });
+
+CustomHeading.displayName = "CustomHeading";
+
+export default CustomHeading;
